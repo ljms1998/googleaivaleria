@@ -1,0 +1,6 @@
+{
+  "name": "Propia - Autonomous AI for Real Estate",
+  "description": "Autonomous AI agents to qualify, tour, and schedule verified buyers 24/7 on autopilot.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
